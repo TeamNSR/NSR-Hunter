@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="myrepository"><img src="https://raw.githubusercontent.com/TeamNSR/zphisher/master/.imgs/IMG_20210708_145203.jpg" alt="Recon"></a>
+<a href="myrepository"><img src="https://raw.githubusercontent.com/TeamNSR/zphisher/master/.imgs/IMG_20210708_145203.jpg" alt="TeamNSR"></a>
 <br>
 👑 TeamNSR 👑
 </h1>
@@ -145,7 +145,7 @@ chmod +x installation.sh
 ![Mindmap](https://user-images.githubusercontent.com/73609472/119389097-8a3de200-bca1-11eb-831b-d8739075695f.png)
 
 ## License
-``Recon`` was entirely coded with ❤ by [@Dirsoooo](https://twitter.com/Dirsoooo) and it is released under the MIT license.
+``Recon`` was entirely coded with ❤ by [@TeamNSR](https://twitter.com/TeamNSR) and it is released under the MIT license.
 
 ## Buy me a coffee ☕
 If you liked my job and want to support me in some way, buy me a coffee 😁
